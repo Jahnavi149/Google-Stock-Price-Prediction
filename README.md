@@ -4,4 +4,6 @@
 3. This dataset contain the stock market prices from 2004 to 2022.
 4. Evaluated the model efficiency using RMSE (Root Mean Squared Error) method. Achieved an RMSE of 0.13 with respect to average target value for this model.
 5. The trends are so accuarate as we evaluate from the graph.
- ![Google Stock Price Trends for the year 2022](Plot.png)
+
+# Google Stock Price Trends for the year 2022
+ ![](Plot.png)
